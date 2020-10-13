@@ -12,5 +12,7 @@ Ans:  Use the following command to push the changes in git.
 
 */
 
-This is in dev branch.
+/*
+Hello I am in master branch 
+*/
 
